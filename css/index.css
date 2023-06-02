@@ -290,9 +290,9 @@ width: 269px;
 }
 
 @media (max-width: 1366px) {
-  .navbar .dropdown .dropdown ul {
-    left: -90%;
-  }
+    .navbar .dropdown .dropdown ul .image .trending .mid .below_mid .card .learn .para .para1 .Top_Division {
+      left: -90%;
+    }
 
   .navbar .dropdown .dropdown:hover>ul {
     left: -100%;
