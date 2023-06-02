@@ -50,7 +50,7 @@ html *
 }
 
 .navbar>ul>li {
-  white-space: nowrap;
+  white-space: wrap;
   padding: 10px 0 10px 12px;
 }
 .navbar a,
@@ -62,7 +62,7 @@ html *
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   font-size: 14px;
-  white-space: nowrap;
+  white-space: wrap;
   transition: 0.3s;
   position: relative;
   padding: 6px 4px;
@@ -88,12 +88,38 @@ html *
   font-weight: 500;
   line-height: 1;
   font-size: 13px;
-  white-space: nowrap;
+  white-space: wrap;
   margin-right: 5px;
 }
 .mid
 {
   margin-top: 50px;
+}
+.below_mid
+{
+  height: 350px;
+  background-image: url(/images/36.png);
+  padding-top: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.para
+{
+  margin-left: 517px;
+  margin-top: 90px;
+  color: rgb(109, 6, 6);
+  font-family: fantasy;
+  font-size: 20;
+  font-weight: bolder;
+}
+.para1
+{
+  margin-left: 368px;
+  margin-top: 10px;
+  color:rgb(9, 2, 40);
+  font-family:fantasy;
+  font-size: 10;
+  font-weight: bolder;
 }
 .profile
 {
@@ -102,9 +128,9 @@ html *
 }
 .search{
     margin-left:1205px;
-    margin-top: -33px;
+    margin-top: -38px;
     margin-right:17px;
-    background: #6658a0; 
+    background: rgba(68, 70, 71, 0.537); 
     border-radius: 60px;
     padding: 10px 20px;
     z-index: 10;
