@@ -1,0 +1,59 @@
+html * {
+    text-align: center;
+    padding-right: 14px;
+    padding-left: -43px;
+}
+body 
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img
+{
+    width: 130px;
+    height: 137px;
+}
+.profile
+{
+    margin-top: 40px;
+    margin-left: 170px;
+    text-align: center;
+    height: 45px;
+    width: 100px;
+}
+.row
+{
+    margin-right: -15px;
+    margin-left: 8px;
+    margin-top: 12px;
+}
+.card
+{
+    height: 500px;
+    width: 464px;
+    margin-top: 80px;
+    margin-left: 500px;
+    margin-bottom: 220px;
+    margin-right: 520px;
+    background-color: inherit;
+}
+.username
+{
+    margin-top: 153px; 
+    margin-left: 65px;
+}
+.password
+{
+    margin-top: 15px; 
+    margin-left: 65px;
+}
+.forget
+{
+    margin-top: 9px; 
+    margin-left: 45px;
+}
+.register
+{
+    margin-top: 47px; 
+    margin-left: 63px;
+}
