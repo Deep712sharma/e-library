@@ -1,0 +1,54 @@
+html * {
+  text-align: center;
+  padding-right: 14px;
+  padding-left: -43px;
+}
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card {
+  height: 500px;
+  width: 464px;
+  margin-top: 80px;
+  margin-left: 500px;
+  margin-bottom: 220px;
+  margin-right: 520px;
+  background-color: rgb(207, 197, 197);
+}
+img {
+  width: 130px;
+  height: 137px;
+}
+.profile {
+  margin-top: 11px;
+  margin-left: 170px;
+  text-align: center;
+  height: 158px;
+  width: 51px;
+}
+.firstName {
+  margin-top: 14px;
+  margin-left: 65px;
+}
+.lastName {
+  margin-top: 14px;
+  margin-left: 65px;
+}
+.e-mail {
+  margin-top: 14px;
+  margin-left: 65px;
+}
+.contact {
+  margin-top: 14px;
+  margin-left: 65px;
+}
+.password {
+  margin-top: 14px;
+  margin-left: 65px;
+}
+.row {
+  margin-right: 37px;
+  margin-left: 135px;
+  margin-top: 29px;
+}
