@@ -1,0 +1,16 @@
+html * {
+    text-align: center;
+    padding-right: 14px;
+    padding-left: -43px;
+}
+.row
+{
+    margin-right: 37px;
+    margin-left: 135px;
+    margin-top: 41px;
+}
+body 
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
