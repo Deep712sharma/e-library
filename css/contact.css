@@ -1,0 +1,60 @@
+html * 
+{
+    text-align: center;
+    padding-right: 20px;
+    padding-left: -43px;
+}
+body 
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.customer
+{
+    height: 237px;
+    width: 283px;
+    margin-top: 107px;
+    margin-left: 96px;
+    margin-bottom: 50px;
+    margin-right: 556px; 
+}
+.editorial
+{
+    height: 237px;
+    width: 283px;
+    margin-top: -285px;
+    margin-left: 410px;
+    margin-bottom: -522px;
+    margin-right: 559px; 
+}
+.rights
+{
+    height: 237px;
+    width: 283px;
+    margin-top: 278px;
+    margin-left: 750px;
+    margin-bottom: -270px;
+    margin-right: 485px; 
+}
+.help
+{
+    height: 237px;
+    width: 283px;
+    margin-top: 37px;
+    margin-left: 1033px;
+    margin-bottom: 544px;
+    margin-right: 485px;  
+}
+img
+{
+    width: 130px;
+    height: 137px;
+}
+.image
+{
+    margin-top: 11px;
+    margin-left: 72px;
+    text-align: center;
+    height: 158px;
+    width: 51px;
+}
