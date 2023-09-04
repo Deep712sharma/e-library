@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Add Book</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel = "stylesheet" href="addBook.css">
+     </head>
+     <body background="7.png">
+    <form action="addBook.php" method="POST" enctype="multipart/form-data">
+        
+        <h1>Add Book to eLibrary</h1>
+        <input type="text" placeholder="enter title of the book" id="title" name="title" required><br><br>
+        
+        <input type="text" placeholder="enter name of the author" id="author" name="author" required><br><br>
+        
+        <label for="description">Description:</label><br>
+        <textarea id="description" name="description" rows="4"></textarea><br><br>
+        
+        <label for="cover_image">Cover Image:</label><br>
+        <input type="file" id="cover_image" name="cover_image" accept="image/*" required><br><br>
+        
+        <input type="submit" value="Add Book">
+    </form>
+     </body>
+</html>
